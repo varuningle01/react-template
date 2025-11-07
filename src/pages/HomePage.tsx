@@ -57,7 +57,7 @@ export const HomePage = () => {
                hover:from-pink-500 hover:to-indigo-500 
                transition-all duration-300 shadow-md hover:shadow-lg"
         >
-          View Source on GitHub
+          {t("view_source_github")}
         </a>
       </div>
 

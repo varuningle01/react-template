@@ -1,6 +1,7 @@
 {
   "title": "⚡ Plantilla React + TypeScript + Tailwind",
   "subtitle": "Proyecto preconfigurado con Context + Reducer + Tailwind — listo para aplicaciones escalables 🚀",
+  "view_source_github": "Ver el código en GitHub",
   "features_title": "🧩 Características de la plantilla",
   "feature_1": "✅ Configuración de React + TypeScript con Create React App",
   "feature_2": "✅ Tailwind CSS preconfigurado",

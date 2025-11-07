@@ -1,6 +1,7 @@
 {
   "title": "⚡ React + TypeScript + Tailwind Template",
   "subtitle": "Preconfigured project with Context + Reducer + Tailwind setup — ready to build scalable apps faster 🚀",
+  "view_source_github": "View Source on GitHub",
   "features_title": "🧩 Template Features",
   "feature_1": "✅ React + TypeScript setup via Create React App",
   "feature_2": "✅ Tailwind CSS preconfigured",

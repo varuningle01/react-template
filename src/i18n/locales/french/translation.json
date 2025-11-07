@@ -1,6 +1,7 @@
 {
   "title": "⚡ Modèle React + TypeScript + Tailwind",
   "subtitle": "Projet préconfiguré avec Context + Reducer + Tailwind — prêt pour des applications évolutives 🚀",
+  "view_source_github": "Voir le code source sur GitHub",
   "features_title": "🧩 Fonctionnalités du modèle",
   "feature_1": "✅ Configuration React + TypeScript avec Create React App",
   "feature_2": "✅ Tailwind CSS préconfiguré",

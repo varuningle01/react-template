@@ -1,6 +1,7 @@
 {
   "title": "⚡ React + TypeScript + Tailwind Vorlage",
   "subtitle": "Vorkonfiguriert mit Context + Reducer + Tailwind — bereit für skalierbare Apps 🚀",
+  "view_source_github": "Quellcode auf GitHub ansehen",
   "features_title": "🧩 Vorlagenfunktionen",
   "feature_1": "✅ React + TypeScript Setup mit Create React App",
   "feature_2": "✅ Tailwind CSS vorkonfiguriert",
