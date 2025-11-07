@@ -3,8 +3,6 @@ import { useAppContext } from "../common/utils/CustomHooks/useAppContext";
 import { useTranslation } from "react-i18next";
 
 export const HomePage = () => {
-  // Inside HomePage.tsx
-
   const { appState, updateCount, updateText } = useAppContext();
   const { count, text } = appState;
   const { t, i18n } = useTranslation();
@@ -12,6 +10,8 @@ export const HomePage = () => {
   const handleText = (value: string) => {
     updateText({ text: value });
   };
+
+  const githubRepoUrl = "https://github.com/varuningle01/react-template";
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-100 flex flex-col items-center py-12 px-6 text-gray-800">
@@ -40,11 +40,24 @@ export const HomePage = () => {
       </div>
 
       {/* 🏠 Header Section */}
-      <div className="text-center space-y-2 mb-10">
+      <div className="text-center space-y-3 mb-10">
         <h1 className="text-4xl font-extrabold bg-gradient-to-r from-indigo-500 to-pink-500 bg-clip-text text-transparent">
           {t("title")}
         </h1>
         <p className="text-gray-600 text-sm">{t("subtitle")}</p>
+
+        {/* 🧭 GitHub Repo Button */}
+        <a
+          href={githubRepoUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block mt-4 px-6 py-2 font-medium text-white rounded-lg 
+               bg-gradient-to-r from-indigo-500 to-pink-500 
+               hover:from-pink-500 hover:to-indigo-500 
+               transition-all duration-300 shadow-md hover:shadow-lg"
+        >
+          View Source on GitHub
+        </a>
       </div>
 
       {/* 🧩 Features Section */}
