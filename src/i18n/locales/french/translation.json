@@ -1,0 +1,23 @@
+{
+  "title": "⚡ Modèle React + TypeScript + Tailwind",
+  "subtitle": "Projet préconfiguré avec Context + Reducer + Tailwind — prêt pour des applications évolutives 🚀",
+  "features_title": "🧩 Fonctionnalités du modèle",
+  "feature_1": "✅ Configuration React + TypeScript avec Create React App",
+  "feature_2": "✅ Tailwind CSS préconfiguré",
+  "feature_3": "✅ Gestion d'état globale (Context + Reducer)",
+  "feature_4": "✅ Actions, Reducers et Hooks typés",
+  "feature_5": "✅ Structure de dossiers modulaire pour l'évolutivité",
+  "feature_6": "✅ Mises à jour d'état en direct avec aperçu",
+  "feature_7": "✅ Prêt pour le routage, les formulaires et les intégrations API",
+  "feature_8": "✅ Prise en charge intégrée d’i18n multilingue via react-i18next",
+  "feature_9": "✅ Intégration d’un Error Boundary pour une gestion fluide des erreurs UI",
+  "folder_structure_title": "🗂️ Structure des dossiers",
+  "setup_title": "🧰 Configuration & Utilisation",
+  "command_note": "Ouvrez http://localhost:3000 pour voir le projet.",
+  "state_demo_title": "🔄 Démonstration de gestion d'état",
+  "count_label": "Compteur",
+  "increase_button": "Augmenter le compteur",
+  "type_placeholder": "Tapez quelque chose...",
+  "text_label": "Texte",
+  "footer": "Créé avec ❤️ en React, TypeScript & TailwindCSS"
+}

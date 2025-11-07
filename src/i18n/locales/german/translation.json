@@ -1,0 +1,23 @@
+{
+  "title": "⚡ React + TypeScript + Tailwind Vorlage",
+  "subtitle": "Vorkonfiguriert mit Context + Reducer + Tailwind — bereit für skalierbare Apps 🚀",
+  "features_title": "🧩 Vorlagenfunktionen",
+  "feature_1": "✅ React + TypeScript Setup mit Create React App",
+  "feature_2": "✅ Tailwind CSS vorkonfiguriert",
+  "feature_3": "✅ Globales Zustandsmanagement (Context + Reducer)",
+  "feature_4": "✅ Typisierte Actions, Reducer und benutzerdefinierte Hooks",
+  "feature_5": "✅ Modulare Ordnerstruktur für Skalierbarkeit",
+  "feature_6": "✅ Beispielzustandsaktualisierungen mit Live-Vorschau",
+  "feature_7": "✅ Bereit für Routing, Formulare und API-Integrationen",
+  "feature_8": "✅ Eingebautes i18n mit Mehrsprachenunterstützung über react-i18next",
+  "feature_9": "✅ Error Boundary-Integration zur stabilen UI-Fehlerbehandlung",
+  "folder_structure_title": "🗂️ Ordnerstruktur",
+  "setup_title": "🧰 Einrichtung & Verwendung",
+  "command_note": "Projekt anzeigen unter http://localhost:3000",
+  "state_demo_title": "🔄 Zustandsmanagement-Demo",
+  "count_label": "Zähler",
+  "increase_button": "Zähler erhöhen",
+  "type_placeholder": "Etwas eingeben...",
+  "text_label": "Text",
+  "footer": "Erstellt mit ❤️ in React, TypeScript & TailwindCSS"
+}

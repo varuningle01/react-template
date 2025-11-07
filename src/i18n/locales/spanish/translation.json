@@ -1,0 +1,23 @@
+{
+  "title": "⚡ Plantilla React + TypeScript + Tailwind",
+  "subtitle": "Proyecto preconfigurado con Context + Reducer + Tailwind — listo para aplicaciones escalables 🚀",
+  "features_title": "🧩 Características de la plantilla",
+  "feature_1": "✅ Configuración de React + TypeScript con Create React App",
+  "feature_2": "✅ Tailwind CSS preconfigurado",
+  "feature_3": "✅ Gestión de estado global (Context + Reducer)",
+  "feature_4": "✅ Actions, Reducers y Hooks tipados",
+  "feature_5": "✅ Estructura modular de carpetas para escalabilidad",
+  "feature_6": "✅ Actualizaciones de estado en vivo con vista previa",
+  "feature_7": "✅ Listo para enrutamiento, formularios e integraciones API",
+  "feature_8": "✅ Configuración i18n integrada con soporte multilenguaje mediante react-i18next",
+  "feature_9": "✅ Integración de Error Boundary para manejar errores de interfaz de usuario sin fallos",
+  "folder_structure_title": "🗂️ Estructura de carpetas",
+  "setup_title": "🧰 Configuración y uso",
+  "command_note": "Abre http://localhost:3000 para ver el proyecto.",
+  "state_demo_title": "🔄 Demostración de gestión de estado",
+  "count_label": "Contador",
+  "increase_button": "Aumentar contador",
+  "type_placeholder": "Escribe algo...",
+  "text_label": "Texto",
+  "footer": "Hecho con ❤️ usando React, TypeScript y TailwindCSS"
+}

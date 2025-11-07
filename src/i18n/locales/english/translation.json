@@ -1,0 +1,23 @@
+{
+  "title": "⚡ React + TypeScript + Tailwind Template",
+  "subtitle": "Preconfigured project with Context + Reducer + Tailwind setup — ready to build scalable apps faster 🚀",
+  "features_title": "🧩 Template Features",
+  "feature_1": "✅ React + TypeScript setup via Create React App",
+  "feature_2": "✅ Tailwind CSS preconfigured",
+  "feature_3": "✅ Global state management (Context + Reducer)",
+  "feature_4": "✅ Typed Actions, Reducers & Custom Hooks",
+  "feature_5": "✅ Modular folder structure for scalability",
+  "feature_6": "✅ Example state updates with live preview",
+  "feature_7": "✅ Ready for routing, forms, and API integrations",
+  "feature_8": "✅ Built-in i18n setup with multi-language support using react-i18next",
+  "feature_9": "✅ Error Boundary integration for graceful UI error handling",
+  "folder_structure_title": "🗂️ Folder Structure",
+  "setup_title": "🧰 Setup & Usage",
+  "command_note": "Once running, open http://localhost:3000 to view the project.",
+  "state_demo_title": "🔄 State Management Demo",
+  "count_label": "Count",
+  "increase_button": "Increase Count",
+  "type_placeholder": "Type something...",
+  "text_label": "Text",
+  "footer": "Made with ❤️ using React, TypeScript & TailwindCSS"
+}
