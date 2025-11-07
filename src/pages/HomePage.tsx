@@ -16,7 +16,7 @@ export const HomePage = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-100 flex flex-col items-center py-12 px-6 text-gray-800">
       {/* 🔤 Language Switcher */}
-      <div className="flex space-x-2 self-end mb-4">
+      <div className="w-full flex flex-wrap justify-center sm:justify-end gap-2 mb-6">
         {[
           { code: "english", label: "English" },
           { code: "hindi", label: "हिन्दी" },
@@ -28,11 +28,12 @@ export const HomePage = () => {
           <button
             key={lang.code}
             onClick={() => i18n.changeLanguage(lang.code)}
-            className={`px-3 py-1 text-sm rounded ${
-              i18n.language === lang.code
-                ? "bg-indigo-600 text-white"
-                : "bg-gray-200 hover:bg-gray-300"
-            } transition`}
+            className={`px-3 py-1 text-sm sm:text-base rounded transition-all duration-200 
+        ${
+          i18n.language === lang.code
+            ? "bg-indigo-600 text-white shadow-md"
+            : "bg-gray-200 hover:bg-gray-300"
+        }`}
           >
             {lang.label}
           </button>
